@@ -8,6 +8,7 @@ uniform vec3 theta;
 
 void main()
 {
+	// TO DO
 	// Compute the sines and cosines of theta for each of
 	// the three axes in one computation.
 	vec3 angles = radians( theta );
