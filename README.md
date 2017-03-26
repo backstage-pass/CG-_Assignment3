@@ -1,2 +1,2 @@
-# CG-_Assignment3
+# CG1_Assignment3
 Basic shader program with GLSL
