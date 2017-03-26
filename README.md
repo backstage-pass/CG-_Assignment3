@@ -7,7 +7,7 @@ GLUT comes in two flavours for Windows. There's an old and unmaintained version 
 
 ### Installing freeglut
 
-1) Get the freeglut 2.8.1 MSVC zip file from http://www.transmissionzero.co.uk/software/freeglut-devel/
+1) Get the latest [freeglut](http://www.transmissionzero.co.uk/software/freeglut-devel/) MSVC package. 
 2) Extract the files to your PC.
 3) There are three types of files of importance: lib (in the lib folder), header (in the include\GL folder), and dll (in the bin folder).
 4) If you are using 32-bit Windows with Visual Studio 2013, the following are the easiest places to put each of these files:
